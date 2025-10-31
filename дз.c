@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int total_kop;
     int rub, kop;
     char *kop_word;
