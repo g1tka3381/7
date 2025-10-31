@@ -16,11 +16,11 @@
 3. Вычисление рублей и копеек:
    * ``` rub = total_kop / 100 ```
    * ``` kop = total_kop % 100 ```
-4. Определение формы слова «копейка».   
-5. Вывести результат.
-6. Конец
+4. Определение формы слова «копейка».
+6. Вывести результат.
+7. Конец
 ### Блок-схема ###
-<img width="190" height="1924" alt="image" src="https://github.com/user-attachments/assets/bfbdbc07-6e16-454f-a34a-9a6f9554bb8a" />
+<img width="400" height="2164" alt="image" src="https://github.com/user-attachments/assets/31227e8a-5b29-48d8-8d98-4b31bbc6a450" />
 
 
 ## 2. Реализация программы ##
